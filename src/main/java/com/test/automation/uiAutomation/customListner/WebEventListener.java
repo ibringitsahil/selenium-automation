@@ -21,7 +21,7 @@ public class WebEventListener extends TestBase implements WebDriverEventListener
 	public void beforeNavigateTo(String url, WebDriver driver) {
 		//log("Before navigating to: '" + url + "'");
 	}
-
+//////////////////////////////////////////////////////////////////
 	public void afterNavigateTo(String url, WebDriver driver) {
 		//log("Navigated to:'" + url + "'");
 	}
